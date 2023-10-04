@@ -7,11 +7,7 @@ A simple College Management System developed using Python and the Tkinter librar
 - [Introduction](#introduction)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -31,10 +27,3 @@ This College Management System provides a basic interface for students, teachers
 - Pillow (PIL, for image handling)
 - MySQL Connector (for database connectivity)
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/college-management-system.git
-   cd college-management-system
